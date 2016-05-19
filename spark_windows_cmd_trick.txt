@@ -1,0 +1,129 @@
+scala> :sh cmd /C dir
+res389: scala.tools.nsc.interpreter.ProcessResult = `cmd /C dir` (32 lines, exit
+ 0)
+
+scala> res389 foreach println
+ Volume in drive D is New Volume
+ Volume Serial Number is D027-0EAC
+
+ Directory of D:\git_work\spark
+
+05/17/2016  06:57 PM    <DIR>          .
+05/17/2016  06:57 PM    <DIR>          ..
+05/17/2016  04:35 PM    <DIR>          .metadata
+05/17/2016  04:50 PM                72 build.sbt
+05/17/2016  05:48 PM               586 createscalaprog.bat
+05/17/2016  12:35 PM    <DIR>          Data
+05/18/2016  01:53 PM            20,989 derby.log
+05/17/2016  01:17 PM    <DIR>          hadoop_spark_jars
+05/17/2016  05:05 PM    <DIR>          java
+05/17/2016  05:22 PM    <DIR>          lang2
+05/17/2016  03:53 PM    <DIR>          LangEval
+05/17/2016  03:51 PM    <DIR>          LanguageEvaluator
+05/17/2016  06:45 PM    <DIR>          LanguageEvaluator - PreAction
+05/17/2016  07:56 PM    <DIR>          LanguageEvaluator - PreTransform
+05/17/2016  08:25 PM    <DIR>          metastore_db
+05/17/2016  07:41 PM    <DIR>          PluralsightData
+05/11/2016  02:51 PM             1,375 readme.txt
+05/11/2016  04:08 PM    <DIR>          ReadMeWordCount
+05/17/2016  04:35 PM    <DIR>          RemoteSystemsTempFiles
+05/17/2016  06:50 PM    <DIR>          Test
+05/17/2016  07:34 PM    <DIR>          Test1
+05/17/2016  12:36 PM    <DIR>          WordCount
+05/11/2016  04:12 PM               382 wordcount.sc
+05/11/2016  07:03 PM    <DIR>          Workspace
+05/12/2016  03:56 PM    <DIR>          workspace1
+               5 File(s)         23,404 bytes
+              20 Dir(s)  39,244,324,864 bytes free
+			  
+scala> res0 foreach print
+Hello World
+
+// small trick in running windows commands 
+
+scala> implicit def stringToDosProcess(s: String) =
+     |   scala.sys.process.stringToProcess("cmd /C "+ s)
+warning: there were 1 feature warning(s); re-run with -feature for details
+stringToDosProcess: (s: String)scala.sys.process.ProcessBuilder
+
+scala> "dir".!
+ Volume in drive D is New Volume
+ Volume Serial Number is D027-0EAC
+
+ Directory of D:\git_work\spark
+
+05/17/2016  06:57 PM    <DIR>          .
+05/17/2016  06:57 PM    <DIR>          ..
+05/17/2016  04:35 PM    <DIR>          .metadata
+05/17/2016  04:50 PM                72 build.sbt
+05/17/2016  05:48 PM               586 createscalaprog.bat
+05/17/2016  12:35 PM    <DIR>          Data
+05/18/2016  01:53 PM            20,989 derby.log
+05/17/2016  01:17 PM    <DIR>          hadoop_spark_jars
+05/17/2016  05:05 PM    <DIR>          java
+05/17/2016  05:22 PM    <DIR>          lang2
+05/17/2016  03:53 PM    <DIR>          LangEval
+05/17/2016  03:51 PM    <DIR>          LanguageEvaluator
+05/17/2016  06:45 PM    <DIR>          LanguageEvaluator - PreAction
+05/17/2016  07:56 PM    <DIR>          LanguageEvaluator - PreTransform
+05/17/2016  08:25 PM    <DIR>          metastore_db
+05/17/2016  07:41 PM    <DIR>          PluralsightData
+05/11/2016  02:51 PM             1,375 readme.txt
+05/11/2016  04:08 PM    <DIR>          ReadMeWordCount
+05/17/2016  04:35 PM    <DIR>          RemoteSystemsTempFiles
+05/17/2016  06:50 PM    <DIR>          Test
+05/17/2016  07:34 PM    <DIR>          Test1
+05/17/2016  12:36 PM    <DIR>          WordCount
+05/11/2016  04:12 PM               382 wordcount.sc
+05/11/2016  07:03 PM    <DIR>          Workspace
+05/12/2016  03:56 PM    <DIR>          workspace1
+               5 File(s)         23,404 bytes
+              20 Dir(s)  39,244,324,864 bytes free
+res393: Int = 0
+
+scala> "mkdir replcreate".!
+res394: Int = 0
+
+scala> "dir".!
+ Volume in drive D is New Volume
+ Volume Serial Number is D027-0EAC
+
+ Directory of D:\git_work\spark
+
+05/18/2016  11:11 PM    <DIR>          .
+05/18/2016  11:11 PM    <DIR>          ..
+05/17/2016  04:35 PM    <DIR>          .metadata
+05/17/2016  04:50 PM                72 build.sbt
+05/17/2016  05:48 PM               586 createscalaprog.bat
+05/17/2016  12:35 PM    <DIR>          Data
+05/18/2016  01:53 PM            20,989 derby.log
+05/17/2016  01:17 PM    <DIR>          hadoop_spark_jars
+05/17/2016  05:05 PM    <DIR>          java
+05/17/2016  05:22 PM    <DIR>          lang2
+05/17/2016  03:53 PM    <DIR>          LangEval
+05/17/2016  03:51 PM    <DIR>          LanguageEvaluator
+05/17/2016  06:45 PM    <DIR>          LanguageEvaluator - PreAction
+05/17/2016  07:56 PM    <DIR>          LanguageEvaluator - PreTransform
+05/17/2016  08:25 PM    <DIR>          metastore_db
+05/17/2016  07:41 PM    <DIR>          PluralsightData
+05/11/2016  02:51 PM             1,375 readme.txt
+05/11/2016  04:08 PM    <DIR>          ReadMeWordCount
+05/17/2016  04:35 PM    <DIR>          RemoteSystemsTempFiles
+05/18/2016  11:11 PM    <DIR>          replcreate
+05/17/2016  06:50 PM    <DIR>          Test
+05/17/2016  07:34 PM    <DIR>          Test1
+05/17/2016  12:36 PM    <DIR>          WordCount
+05/11/2016  04:12 PM               382 wordcount.sc
+05/11/2016  07:03 PM    <DIR>          Workspace
+05/12/2016  03:56 PM    <DIR>          workspace1
+               5 File(s)         23,404 bytes
+              21 Dir(s)  39,244,324,864 bytes free
+res395: Int = 0
+
+scala> res389
+res396: scala.tools.nsc.interpreter.ProcessResult = `cmd /C dir` (32 lines, exit
+ 0)
+
+
+
+scala>

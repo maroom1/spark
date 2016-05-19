@@ -1,0 +1,43 @@
+[info] Packaging D:\git_work\spark\LanguageEvaluator - PreTransform\target\scala-2.10\language-evaluator_2.10-0.2.jar ...
+[debug] Input file mappings:
+[debug] 	main\WikiCleaner$$anonfun$1.class
+[debug] 	  D:\git_work\spark\LanguageEvaluator - PreTransform\target\scala-2.10\classes\main\WikiCleaner$$anonfun$1.class
+[debug] 	main\TempParsed.class
+[debug] 	  D:\git_work\spark\LanguageEvaluator - PreTransform\target\scala-2.10\classes\main\TempParsed.class
+[debug] 	main\Evaluator$$anonfun$6.class
+[debug] 	  D:\git_work\spark\LanguageEvaluator - PreTransform\target\scala-2.10\classes\main\Evaluator$$anonfun$6.class
+[debug] 	main
+[debug] 	  D:\git_work\spark\LanguageEvaluator - PreTransform\target\scala-2.10\classes\main
+[debug] 	main\WikiCleaner$$anonfun$stripWhitespace$1.class
+[debug] 	  D:\git_work\spark\LanguageEvaluator - PreTransform\target\scala-2.10\classes\main\WikiCleaner$$anonfun$stripWhitespace$1.class
+[debug] 	main\Evaluator$$anonfun$1.class
+[debug] 	  D:\git_work\spark\LanguageEvaluator - PreTransform\target\scala-2.10\classes\main\Evaluator$$anonfun$1.class
+[debug] 	main\Evaluator$$anonfun$5.class
+[debug] 	  D:\git_work\spark\LanguageEvaluator - PreTransform\target\scala-2.10\classes\main\Evaluator$$anonfun$5.class
+[debug] 	main\WikiCleaner.class
+[debug] 	  D:\git_work\spark\LanguageEvaluator - PreTransform\target\scala-2.10\classes\main\WikiCleaner.class
+[debug] 	main\WikiCleaner$$anonfun$secondPass$1.class
+[debug] 	  D:\git_work\spark\LanguageEvaluator - PreTransform\target\scala-2.10\classes\main\WikiCleaner$$anonfun$secondPass$1.class
+[debug] 	main\Evaluator$$anonfun$3.class
+[debug] 	  D:\git_work\spark\LanguageEvaluator - PreTransform\target\scala-2.10\classes\main\Evaluator$$anonfun$3.class
+[debug] 	main\WikiCleaner$$anonfun$2.class
+[debug] 	  D:\git_work\spark\LanguageEvaluator - PreTransform\target\scala-2.10\classes\main\WikiCleaner$$anonfun$2.class
+[debug] 	main\WikiCleaner$.class
+[debug] 	  D:\git_work\spark\LanguageEvaluator - PreTransform\target\scala-2.10\classes\main\WikiCleaner$.class
+[debug] 	main\Evaluator.class
+[debug] 	  D:\git_work\spark\LanguageEvaluator - PreTransform\target\scala-2.10\classes\main\Evaluator.class
+[debug] 	main\TempParsed$.class
+[debug] 	  D:\git_work\spark\LanguageEvaluator - PreTransform\target\scala-2.10\classes\main\TempParsed$.class
+[debug] 	main\WikiCleaner$$anonfun$secondPass$1$$anonfun$apply$1.class
+[debug] 	  D:\git_work\spark\LanguageEvaluator - PreTransform\target\scala-2.10\classes\main\WikiCleaner$$anonfun$secondPass$1$$anonfun$apply$1.class
+[debug] 	main\Evaluator$$anonfun$4.class
+[debug] 	  D:\git_work\spark\LanguageEvaluator - PreTransform\target\scala-2.10\classes\main\Evaluator$$anonfun$4.class
+[debug] 	main\Evaluator$.class
+[debug] 	  D:\git_work\spark\LanguageEvaluator - PreTransform\target\scala-2.10\classes\main\Evaluator$.class
+[debug] 	main\Evaluator$$anonfun$main$1.class
+[debug] 	  D:\git_work\spark\LanguageEvaluator - PreTransform\target\scala-2.10\classes\main\Evaluator$$anonfun$main$1.class
+[debug] 	main\WikiCleaner$$anonfun$parse$1.class
+[debug] 	  D:\git_work\spark\LanguageEvaluator - PreTransform\target\scala-2.10\classes\main\WikiCleaner$$anonfun$parse$1.class
+[debug] 	main\Evaluator$$anonfun$2.class
+[debug] 	  D:\git_work\spark\LanguageEvaluator - PreTransform\target\scala-2.10\classes\main\Evaluator$$anonfun$2.class
+[info] Done packaging.
