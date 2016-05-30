@@ -1,0 +1,5 @@
+spark-submit --jars /home/hadoop/work/hadoop-1.1.2/contrib/streaming/hadoop-streaming-1.1.2.jar --class com.spark.examples.TradeData --master local test.jar hdfs://localhost:9000/demo/Tradedata.xml hdfs://localhost:9000/demo/Tradedata-op
+
+
+
+spark-submit --jars file:///D:/git_work/spark/hadoop_spark_jars/1.1.2/hadoop-streaming-1.1.2.jar --class com.spark.examples.TradeData --master local test.jar file:///D:/git_work/spark/spark_xml/Tradedata.xml file:///D:/git_work/spark/spark_xml/Tradedata-op

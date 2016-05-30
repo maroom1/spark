@@ -26,7 +26,9 @@ echo sbt.version = 0.13.11 >> build.properties
 SET var=addSbtPlugin("com.typesafe.sbteclipse" %% "sbteclipse-plugin" %% "4.0.0")
 echo %var% >> plugins.sbt
 cd ..
-sbt eclipse
+echo ---> you project is ready 
+echo ---> run sbt eclipse
+echo ---> i
 
 
 
