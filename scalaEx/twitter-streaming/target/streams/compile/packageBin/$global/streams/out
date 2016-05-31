@@ -1,0 +1,41 @@
+[info] Packaging D:\git_work\spark\scalaEx\twitter-streaming\target\scala-2.10\twitterstreaming_2.10-1.0.jar ...
+[debug] Input file mappings:
+[debug] 	TwitterPopularTags$$anonfun$8.class
+[debug] 	  D:\git_work\spark\scalaEx\twitter-streaming\target\scala-2.10\classes\TwitterPopularTags$$anonfun$8.class
+[debug] 	StreamingExamples$$anonfun$setStreamingLogLevels$1.class
+[debug] 	  D:\git_work\spark\scalaEx\twitter-streaming\target\scala-2.10\classes\StreamingExamples$$anonfun$setStreamingLogLevels$1.class
+[debug] 	TwitterPopularTags$$anonfun$2.class
+[debug] 	  D:\git_work\spark\scalaEx\twitter-streaming\target\scala-2.10\classes\TwitterPopularTags$$anonfun$2.class
+[debug] 	StreamingExamples.class
+[debug] 	  D:\git_work\spark\scalaEx\twitter-streaming\target\scala-2.10\classes\StreamingExamples.class
+[debug] 	TwitterPopularTags$$anonfun$4.class
+[debug] 	  D:\git_work\spark\scalaEx\twitter-streaming\target\scala-2.10\classes\TwitterPopularTags$$anonfun$4.class
+[debug] 	TwitterPopularTags$$anonfun$main$2.class
+[debug] 	  D:\git_work\spark\scalaEx\twitter-streaming\target\scala-2.10\classes\TwitterPopularTags$$anonfun$main$2.class
+[debug] 	TwitterPopularTags$$anonfun$1.class
+[debug] 	  D:\git_work\spark\scalaEx\twitter-streaming\target\scala-2.10\classes\TwitterPopularTags$$anonfun$1.class
+[debug] 	TwitterPopularTags$$anonfun$main$1$$anonfun$apply$2.class
+[debug] 	  D:\git_work\spark\scalaEx\twitter-streaming\target\scala-2.10\classes\TwitterPopularTags$$anonfun$main$1$$anonfun$apply$2.class
+[debug] 	TwitterPopularTags$$anonfun$3$$anonfun$apply$1.class
+[debug] 	  D:\git_work\spark\scalaEx\twitter-streaming\target\scala-2.10\classes\TwitterPopularTags$$anonfun$3$$anonfun$apply$1.class
+[debug] 	TwitterPopularTags$$anonfun$9.class
+[debug] 	  D:\git_work\spark\scalaEx\twitter-streaming\target\scala-2.10\classes\TwitterPopularTags$$anonfun$9.class
+[debug] 	TwitterPopularTags$.class
+[debug] 	  D:\git_work\spark\scalaEx\twitter-streaming\target\scala-2.10\classes\TwitterPopularTags$.class
+[debug] 	StreamingExamples$.class
+[debug] 	  D:\git_work\spark\scalaEx\twitter-streaming\target\scala-2.10\classes\StreamingExamples$.class
+[debug] 	TwitterPopularTags.class
+[debug] 	  D:\git_work\spark\scalaEx\twitter-streaming\target\scala-2.10\classes\TwitterPopularTags.class
+[debug] 	TwitterPopularTags$$anonfun$7.class
+[debug] 	  D:\git_work\spark\scalaEx\twitter-streaming\target\scala-2.10\classes\TwitterPopularTags$$anonfun$7.class
+[debug] 	TwitterPopularTags$$anonfun$6.class
+[debug] 	  D:\git_work\spark\scalaEx\twitter-streaming\target\scala-2.10\classes\TwitterPopularTags$$anonfun$6.class
+[debug] 	TwitterPopularTags$$anonfun$main$2$$anonfun$apply$3.class
+[debug] 	  D:\git_work\spark\scalaEx\twitter-streaming\target\scala-2.10\classes\TwitterPopularTags$$anonfun$main$2$$anonfun$apply$3.class
+[debug] 	TwitterPopularTags$$anonfun$main$1.class
+[debug] 	  D:\git_work\spark\scalaEx\twitter-streaming\target\scala-2.10\classes\TwitterPopularTags$$anonfun$main$1.class
+[debug] 	TwitterPopularTags$$anonfun$3.class
+[debug] 	  D:\git_work\spark\scalaEx\twitter-streaming\target\scala-2.10\classes\TwitterPopularTags$$anonfun$3.class
+[debug] 	TwitterPopularTags$$anonfun$5.class
+[debug] 	  D:\git_work\spark\scalaEx\twitter-streaming\target\scala-2.10\classes\TwitterPopularTags$$anonfun$5.class
+[info] Done packaging.

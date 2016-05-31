@@ -1,0 +1,6 @@
+metastore URI is important for spark to connect to Hive 
+make sure that property present in hive-site.xml
+
+hive can connect to the mysql  through URI which can be optional perperty in hive-site.xml
+
+

@@ -4,7 +4,7 @@
 		module="language-evaluator$sources_2.10"
 		revision="0.2"
 		status="integration"
-		publication="20160519105458"
+		publication="20160530104148"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
