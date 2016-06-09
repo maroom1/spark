@@ -1,0 +1,5 @@
+[0m[[31merror[0m] [0m[/home/edureka/Downloads/sprue-master/build.sbt]:48: ')' expected but string literal found.[0m
+[0m[[31merror[0m] [0m[/home/edureka/Downloads/sprue-master/build.sbt]:59: ';' expected but ')' found.[0m
+Project loading failed: (r)etry, (q)uit, (l)ast, or (i)gnore? 
+[0m[[31merror[0m] [0mType error in expression[0m
+Project loading failed: (r)etry, (q)uit, (l)ast, or (i)gnore? 

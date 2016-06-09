@@ -1,0 +1,102 @@
+// If you have JDK 6 and not JDK 7 then replace all three instances of the number 7 to the number 6
+name := "com.cloudera.sprue"
+
+version := "0.2"
+
+scalaVersion := "2.10.4"
+
+scalacOptions ++= Seq("-deprecation", "-encoding", "UTF-8", "-feature", "-target:jvm-1.7", "-unchecked",
+    "-Ywarn-adapted-args", "-Ywarn-value-discard", "-Xlint")
+
+scalacOptions in (Compile, doc) <++= baseDirectory.map {
+  (bd: File) => Seq[String](
+     "-sourcepath", bd.getAbsolutePath,
+     "-doc-source-url", "https://github.com/mslinn/changeMe/tree/master${FILE_PATH}.scala"
+  )
+}
+
+javacOptions ++= Seq("-Xlint:deprecation", "-Xlint:unchecked", "-source", "1.7", "-target", "1.7", "-g:vars")
+
+resolvers ++= Seq(
+  "Lightbend Releases" at "http://repo.typesafe.com/typesafe/releases"
+)
+
+libraryDependencies ++= Seq(
+  "org.scalatest" % "scalatest_2.10" % "2.2.3",
+ "com.github.nscala-time" % "nscala-time_2.10" % "1.8.0",
+ "org.apache.spark" % "spark-streaming_2.10" % "1.3.0" % "provided",
+ "org.apache.spark" % "spark-sql_2.10" % "1.3.0" % "provided",
+ "com.google.code.gson" % "gson" % "2.3.1",
+"org.kie" % "kie-api" % "6.2.0.Final", 
+ //"org.drools" % "drools-core",
+ //"org.drools" % "drools-compiler",
+ //"org.drools" % "drools-decisiontables",
+ "org.scala-lang" % "scala-library" % "2.10.4" % "provided",
+ "com.cloudera" % "spark-hbase" % "0.0.2-clabs",
+"org.skife.com.typesafe.config" % "typesafe-config" % "0.3.0" % "provided",
+ "org.apache.hbase" % "hbase-client" % "1.0.0-cdh5.4.5"	
+)
+
+libraryDependencies ++= Seq(
+    ("org.apache.hbase" % "hbase-client" % "1.0.0-cdh5.4.5").
+    exclude("org.eclipse.jetty.orbit", "javax.servlet").
+    exclude("org.eclipse.jetty.orbit", "javax.transaction").
+    exclude("org.eclipse.jetty.orbit", "javax.mail.glassfish").
+     exclude("org.eclipse.jetty.orbit", "javax.activation").
+    exclude("commons-beanutils", "commons-beanutils-core").
+    exclude("commons-collections", "commons-collections").
+    exclude("commons-collections", "commons-collections").
+    exclude("com.esotericsoftware.minlog", "minlog").
+  exclude("org.eclipse.jdt.core.compiler","ecj")
+)
+
+
+libraryDependencies ++= Seq(
+    "drools-compiler",
+    "drools-core",
+    "drools-jsr94",
+    "drools-decisiontables",
+    "knowledge-api"
+).map("org.drools" % _ % "6.4.0.Final")
+
+
+resolvers ++= Seq(
+  "JBoss Repository" at "http://repository.jboss.org/nexus/content/repositories/releases/",
+  "Spray Repository" at "http://repo.spray.cc/",
+  "Cloudera Repository" at "https://repository.cloudera.com/artifactory/cloudera-repos/" ,
+  "Akka Repository" at "http://repo.akka.io/releases/",
+ "Twitter4J Repository" at "http://twitter4j.org/maven2/",
+  "Apache HBase" at "https://repository.apache.org/content/repositories/releases",
+  //"Twitter Maven Repo" at "http://maven.twttr.com/",
+  "scala-tools" at "https://oss.sonatype.org/content/groups/scala-tools",
+  "Typesafe repository" at "http://repo.typesafe.com/typesafe/releases/",
+  "Second Typesafe repo" at "http://repo.typesafe.com/typesafe/maven-releases/",
+  "Mesosphere Public Repository" at "http://downloads.mesosphere.io/maven",
+  "Maven Repository" at "https://repo.maven.apache.org/maven2/" ,
+   Resolver.sonatypeRepo("public")
+)
+resolvers += "jboss-releases" at "https://repository.jboss.org/nexus/content/repositories/releases"
+
+resolvers += "jboss-jsr94" at "http://repository.jboss.org/nexus/content/groups/public-jboss"
+
+resolvers += "sonatype-public" at "https://oss.sonatype.org/content/groups/public"
+
+
+
+logLevel := Level.Warn
+
+// Only show warnings and errors on the screen for compilations.
+// This applies to both test:compile and compile and is Info by default
+logLevel in compile := Level.Warn
+
+// Level.INFO is needed to see detailed output when running tests
+logLevel in test := Level.Info
+
+// define the statements initially evaluated when entering 'console', 'console-quick', but not 'console-project'
+initialCommands in console := """
+                     |""".stripMargin
+
+cancelable := true
+
+//sublimeTransitive := true
+

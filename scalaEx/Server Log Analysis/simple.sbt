@@ -10,6 +10,8 @@ libraryDependencies ++= Seq (
 "org.apache.spark" %% "spark-mllib" % "1.5.2"
 )
 
+libraryDependencies += "org.apache.spark" % "spark-hive_2.10" % "1.5.2"
+
 libraryDependencies += "org.apache.spark" % "spark-streaming-twitter_2.10" % "1.5.2"
 
 libraryDependencies += "org.twitter4j" % "twitter4j-core" % "4.0.4"

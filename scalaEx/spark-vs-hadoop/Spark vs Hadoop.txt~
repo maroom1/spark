@@ -1,0 +1,15 @@
+#Hadoop ( Run it in terminal )
+
+hadoop jar wordcount.jar /README.md /word_out
+
+
+#Spark ( Run it in spark-shell )
+
+val textFile = sc.textFile("file:///home/edureka/spark-1.5.2/README.md")
+
+val wordCounts = textFile.flatMap(line => line.split(" ")).map(word => (word, 1)).reduceByKey((a, b) => a + b)
+
+wordCounts.collect().foreach(println)
+
+
+#Compare the execution time of both

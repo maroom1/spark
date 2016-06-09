@@ -4,7 +4,7 @@
 		module="server-log-analysis_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20160530095947"
+		publication="20160602092912"
 	>
 		<description>
 		Server Log Analysis
@@ -37,6 +37,7 @@
 		<dependency org="org.apache.spark" name="spark-core_2.10" rev="1.5.2" conf="compile->default(compile)"/>
 		<dependency org="org.apache.spark" name="spark-streaming_2.10" rev="1.5.2" conf="compile->default(compile)"/>
 		<dependency org="org.apache.spark" name="spark-mllib_2.10" rev="1.5.2" conf="compile->default(compile)"/>
+		<dependency org="org.apache.spark" name="spark-hive_2.10" rev="1.5.2" conf="compile->default(compile)"/>
 		<dependency org="org.apache.spark" name="spark-streaming-twitter_2.10" rev="1.5.2" conf="compile->default(compile)"/>
 		<dependency org="org.twitter4j" name="twitter4j-core" rev="4.0.4" conf="compile->default(compile)"/>
 		<dependency org="org.twitter4j" name="twitter4j" rev="4.0.4" conf="compile->default(compile)"/>
