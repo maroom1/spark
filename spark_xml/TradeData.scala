@@ -17,8 +17,7 @@ object TradeData {
     val outputPath = args(1)
 
     // configuration
-    val sparkConf = new SparkConf()
-      .setAppName("TradeData")
+    val sparkConf = new SparkConf().setAppName("TradeData")
       .setMaster("local")
 
     sparkConf.set("spark.hadoop.validateOutputSpecs", "false")
@@ -27,8 +26,11 @@ object TradeData {
     jobConf.set("stream.recordreader.class", "org.apache.hadoop.streaming.StreamXmlRecordReader")
     jobConf.set("stream.recordreader.begin", "<tradedata>")
     jobConf.set("stream.recordreader.end", "</tradedata>")
-    FileInputFormat.addInputPaths(jobConf, pathToFiles)
 
+val pathToFiles="file:///home/edureka/Downloads/scala_notes/spark_xml/"
+ 
+    FileInputFormat.addInputPaths(jobConf, pathToFiles)
+//sc.stop // if you are running in console every step
     val sparkContext = new SparkContext(sparkConf)
 
     // read data
@@ -45,19 +47,23 @@ object TradeData {
     val f = xml.first
     val tradeXML = XML.loadString(f)
     val tradedata = tradeXML \ "stock"
-
     val mydata = tradedata.map { x =>
-      val stock_id = (x \ "@id")
+      val stock_id = (x \ "@id").text
       val stock_name = (x \ "stock_name").text
       val open_price = (x \ "open_price").text
       val intraday_high = (x \ "intraday_high").text
       val intraday_low = (x \ "intraday_low").text
       val publish_date = (x \ "publish_date").text
-      val row = stock_id + "\t" + stock_name + "\t" + open_price + "\t" + intraday_high + "\t" + intraday_low + "\t" + publish_date
-      (row)
-    }
+      val row = stock_id + "\t" + stock_name + "\t" + open_price + "\t" + intraday_high + "\t" + intraday_low + "\t" + publish_date 
+     
+     row
+
+   
+
+}
 
     val x = sparkContext.parallelize(mydata)
+val outputpath="file:///home/edureka/Downloads/scala_notes/spark_xml/output"
     x.saveAsTextFile(outputPath)
 
   }
