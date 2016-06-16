@@ -1,0 +1,36 @@
+   27  mkdir hdp_vm
+   28  cd hdp_vm/
+   29  vagrant box add hdp_vm https://github.com/2creatives/vagrant-centos/relea
+ses/download/v6.5.1/centos65-x86_64-20131205.box
+   30  vagrant init hdp_vm
+   31  vi Vagrantfile 
+   32  vi Vagrantfile  // change the port  guest and host port number 8080 , and memoery size to 8 gb
+   33  cat Vagrantfile
+   34  vagrant up
+   35  vi Vagrantfile
+   36  vagrant up
+   37  vagrant ssh // here we will be logging into cent os
+       1  cd ~
+    2  vi /etc/hosts
+    3  yum install ntp
+    4  yum install wget
+    5  chkconfig ntpd on
+    6  service ntpd start
+    7  ssh-keygen
+    8  cd .ssh
+    9  cd id_rsa /vagrant
+   10  cp id_rsa /vagrant
+   11  cat id_rsa.pub >> authorized_keys
+   12  wget http://public-repo-1.hortonworks.com/ambari/centos6/1.x/updates/1.4.
+3.38/ambari.repo
+   13  cp ambari.repo /etc/yum.repos.d
+   14  yum repolist
+   15  yum install ambari-server
+   16  ambari-server setup
+   17  ambari-server start // then goto localhost:8080 
+   18  ls
+   19  cd ..
+   20  jps
+   21  sudo jps
+   22  whereis java
+   23  history
