@@ -1,0 +1,106 @@
+<catalog><book>
+      <auth>Gambardella, Matthew</auth>
+      <tit>XML Developer's Guide</tit>
+      <gen>Computer</gen>
+      <pri>44.95</pri>
+      <date>2000-10-01</date>
+      <desc>An in-depth look at creating applications
+            with XML.</desc>
+    </book><book>
+      <auth>Ralls, Kim</auth>
+      <tit>Midnight Rain</tit>
+      <gen>Fantasy</gen>
+      <pri>5.95</pri>
+      <date>2000-12-16</date>
+      <desc>A former architect battles corporate zombies,
+            an evil sorceress, and her own childhood to become queen
+            of the world.</desc>
+    </book><book>
+      <auth>Corets, Eva</auth>
+      <tit>Maeve Ascendant</tit>
+      <gen>Fantasy</gen>
+      <pri>5.95</pri>
+      <date>2000-11-17</date>
+      <desc>After the collapse of a nanotechnology
+            society in England, the young survivors lay the
+            foundation for a new society.</desc>
+    </book><book>
+      <auth>Corets, Eva</auth>
+      <tit>Oberon's Legacy</tit>
+      <gen>Fantasy</gen>
+      <pri>5.95</pri>
+      <date>2001-03-10</date>
+      <desc>In post-apocalypse England, the mysterious
+            agent known only as Oberon helps to create a new life
+            for the inhabitants of London. Sequel to Maeve
+            Ascendant.</desc>
+    </book><book>
+      <auth>Corets, Eva</auth>
+      <tit>The Sundered Grail</tit>
+      <gen>Fantasy</gen>
+      <pri>5.95</pri>
+      <date>2001-09-10</date>
+      <desc>The two daughters of Maeve, half-sisters,
+            battle one another for control of England. Sequel to
+            Oberon's Legacy.</desc>
+    </book><book>
+      <auth>Randall, Cynthia</auth>
+      <tit>Lover Birds</tit>
+      <gen>Romance</gen>
+      <pri>4.95</pri>
+      <date>2000-09-02</date>
+      <desc>When Carla meets Paul at an ornithology
+            conference, tempers fly as feathers get ruffled.</desc>
+    </book><book>
+      <auth>Thurman, Paula</auth>
+      <tit>Splish Splash</tit>
+      <gen>Romance</gen>
+      <pri>4.95</pri>
+      <date>2000-11-02</date>
+      <desc>A deep sea diver finds true love twenty
+            thousand leagues beneath the sea.</desc>
+    </book><book>
+      <auth>Knorr, Stefan</auth>
+      <tit>Creepy Crawlies</tit>
+      <gen>Horror</gen>
+      <pri>4.95</pri>
+      <date>2000-12-06</date>
+      <desc>An anthology of horror stories about roaches,
+            centipedes, scorpions  and other insects.</desc>
+    </book><book>
+      <auth>Kress, Peter</auth>
+      <tit>Paradox Lost</tit>
+      <gen>Science Fiction</gen>
+      <pri>6.95</pri>
+      <date>2000-11-02</date>
+      <desc>After an inadvertant trip through a Heisenberg
+            Uncertainty Device, James Salway discovers the problems
+            of being quantum.</desc>
+    </book><book>
+      <auth>O'Brien, Tim</auth>
+      <tit>Microsoft .NET: The Programming Bible</tit>
+      <gen>Computer</gen>
+      <pri>36.95</pri>
+      <date>2000-12-09</date>
+      <desc>Microsoft's .NET initiative is explored in
+            detail in this deep programmer's reference.</desc>
+    </book><book>
+      <auth>O'Brien, Tim</auth>
+      <tit>MSXML3: A Comprehensive Guide</tit>
+      <gen>Computer</gen>
+      <pri>36.95</pri>
+      <date>2000-12-01</date>
+      <desc>The Microsoft MSXML3 parser is covered in
+            detail, with attention to XML DOM interfaces, XSLT processing,
+            SAX and more.</desc>
+    </book><book>
+      <auth>Galos, Mike</auth>
+      <tit>Visual Studio 7: A Comprehensive Guide</tit>
+      <gen>Computer</gen>
+      <pri>49.95</pri>
+      <date>2001-04-16</date>
+      <desc>Microsoft Visual Studio 7 is explored in depth,
+            looking at how Visual Basic, Visual C++, C#, and ASP+ are
+            integrated into a comprehensive development
+            environment.</desc>
+    </book></catalog>

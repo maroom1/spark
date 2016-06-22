@@ -7,7 +7,7 @@
 		revision="0.2"
 		conf="provided"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20160530104150"/>
+		date="20160617132427"/>
 	<dependencies>
 		<module organisation="org.tachyonproject" name="tachyon">
 			<revision name="0.6.4" status="release" pubdate="20150416171740" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="105">
