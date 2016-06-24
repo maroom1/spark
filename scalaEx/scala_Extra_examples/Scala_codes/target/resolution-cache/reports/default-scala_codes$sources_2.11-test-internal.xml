@@ -7,8 +7,112 @@
 		revision="1.0"
 		conf="test-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20160620232305"/>
+		date="20160624032850"/>
 	<dependencies>
+		<module organisation="org.scala-lang.modules" name="scala-swing_2.11">
+			<revision name="1.0.1" status="release" pubdate="20140416042627" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="8">
+				<license name="BSD 3-clause" url="http://opensource.org/licenses/BSD-3-Clause"/>
+				<metadata-artifact status="no" details="" size="2569" time="0" location="C:\Users\YalamandaRao\.ivy2\cache\org.scala-lang.modules\scala-swing_2.11\ivy-1.0.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.pom"/>
+				<caller organisation="default" name="scala_codes$sources_2.11" conf="test, compile, provided, test-internal, runtime, optional" rev="1.0.1" rev-constraint-default="1.0.1" rev-constraint-dynamic="1.0.1" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="scala-swing_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="79553" time="265" location="C:\Users\YalamandaRao\.ivy2\cache\org.scala-lang.modules\scala-swing_2.11\srcs\scala-swing_2.11-1.0.1-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1-sources.jar"/>
+					</artifact>
+					<artifact name="scala-swing_2.11" type="jar" ext="jar" status="successful" details="" size="726500" time="225" location="C:\Users\YalamandaRao\.ivy2\cache\org.scala-lang.modules\scala-swing_2.11\jars\scala-swing_2.11-1.0.1.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang.modules" name="scala-parser-combinators_2.11">
+			<revision name="1.0.3" status="release" pubdate="20151123133821" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="7">
+				<license name="BSD 3-clause" url="http://opensource.org/licenses/BSD-3-Clause"/>
+				<metadata-artifact status="no" details="" size="2920" time="0" location="C:\Users\YalamandaRao\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\ivy-1.0.3.xml" searched="false" origin-is-local="true" origin-location="D:\activator-dist-1.3.7\repository\org.scala-lang.modules\scala-parser-combinators_2.11\1.0.3\ivys\ivy.xml"/>
+				<caller organisation="default" name="scala_codes$sources_2.11" conf="test, compile, provided, test-internal, runtime, optional" rev="1.0.3" rev-constraint-default="1.0.3" rev-constraint-dynamic="1.0.3" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="scala-parser-combinators_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="42156" time="368" location="C:\Users\YalamandaRao\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\srcs\scala-parser-combinators_2.11-1.0.3-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-sources.jar"/>
+					</artifact>
+					<artifact name="scala-parser-combinators_2.11" type="jar" ext="jar" status="successful" details="" size="415523" time="288" location="C:\Users\YalamandaRao\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\jars\scala-parser-combinators_2.11-1.0.3.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scalactic" name="scalactic_2.11">
+			<revision name="2.2.6" status="release" pubdate="20160105125905" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scalatest.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="5">
+				<license name="the Apache License, ASL Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="2999" time="0" location="C:\Users\YalamandaRao\.ivy2\cache\org.scalactic\scalactic_2.11\ivy-2.2.6.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalactic/scalactic_2.11/2.2.6/scalactic_2.11-2.2.6.pom"/>
+				<caller organisation="default" name="scala_codes$sources_2.11" conf="test, compile, provided, test-internal, runtime, optional" rev="2.2.6" rev-constraint-default="2.2.6" rev-constraint-dynamic="2.2.6" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="scalactic_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="242" time="242" location="C:\Users\YalamandaRao\.ivy2\cache\org.scalactic\scalactic_2.11\srcs\scalactic_2.11-2.2.6-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalactic/scalactic_2.11/2.2.6/scalactic_2.11-2.2.6-sources.jar"/>
+					</artifact>
+					<artifact name="scalactic_2.11" type="jar" ext="jar" status="successful" details="" size="426520" time="194" location="C:\Users\YalamandaRao\.ivy2\cache\org.scalactic\scalactic_2.11\jars\scalactic_2.11-2.2.6.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalactic/scalactic_2.11/2.2.6/scalactic_2.11-2.2.6.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scalatest" name="scalatest_2.11">
+			<revision name="2.2.6" status="release" pubdate="20160105124921" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scalatest.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="9">
+				<license name="the Apache License, ASL Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="4895" time="0" location="C:\Users\YalamandaRao\.ivy2\cache\org.scalatest\scalatest_2.11\ivy-2.2.6.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.6/scalatest_2.11-2.2.6.pom"/>
+				<caller organisation="default" name="scala_codes$sources_2.11" conf="test, compile, provided, test-internal, runtime, optional" rev="2.2.6" rev-constraint-default="2.2.6" rev-constraint-dynamic="2.2.6" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="scalatest_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="1439140" time="1040" location="C:\Users\YalamandaRao\.ivy2\cache\org.scalatest\scalatest_2.11\srcs\scalatest_2.11-2.2.6-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.6/scalatest_2.11-2.2.6-sources.jar"/>
+					</artifact>
+					<artifact name="scalatest_2.11" type="jar" ext="jar" status="successful" details="" size="7439504" time="2647" location="C:\Users\YalamandaRao\.ivy2\cache\org.scalatest\scalatest_2.11\jars\scalatest_2.11-2.2.6.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.6/scalatest_2.11-2.2.6.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-reflect">
+			<revision name="2.11.7" status="release" pubdate="20151123153140" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.11.7/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="6">
+				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
+				<metadata-artifact status="no" details="" size="2814" time="0" location="C:\Users\YalamandaRao\.ivy2\cache\org.scala-lang\scala-reflect\ivy-2.11.7.xml" searched="false" origin-is-local="false" origin-location="file:////D:/activator-dist-1.3.7/repository/org.scala-lang/scala-reflect/2.11.7/ivys/ivy.xml"/>
+				<caller organisation="default" name="scala_codes$sources_2.11" conf="test, compile, provided, test-internal, runtime, optional" rev="2.11.7" rev-constraint-default="2.11.7" rev-constraint-dynamic="2.11.7" callerrev="1.0" extra-info.apiURL="http://www.scala-lang.org/api/2.11.7/"/>
+				<artifacts>
+					<artifact name="scala-reflect" type="jar" ext="jar" status="no" details="" size="4576443" time="0" location="C:\Users\YalamandaRao\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.7.jar">
+						<origin-location is-local="false" location="file:////D:/activator-dist-1.3.7/repository/org.scala-lang/scala-reflect/2.11.7/jars/scala-reflect.jar"/>
+					</artifact>
+					<artifact name="scala-reflect" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="561516" time="0" location="C:\Users\YalamandaRao\.ivy2\cache\org.scala-lang\scala-reflect\srcs\scala-reflect-2.11.7-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.7/scala-reflect-2.11.7-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="junit" name="junit">
+			<revision name="4.12" status="release" pubdate="20151123133320" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://junit.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="3">
+				<license name="Eclipse Public License 1.0" url="http://www.eclipse.org/legal/epl-v10.html"/>
+				<metadata-artifact status="no" details="" size="3308" time="0" location="C:\Users\YalamandaRao\.ivy2\cache\junit\junit\ivy-4.12.xml" searched="false" origin-is-local="true" origin-location="D:\activator-dist-1.3.7\repository\junit\junit\4.12\ivys\ivy.xml"/>
+				<caller organisation="default" name="scala_codes$sources_2.11" conf="test, compile, provided, test-internal, runtime, optional" rev="4.12" rev-constraint-default="4.12" rev-constraint-dynamic="4.12" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="junit" type="jar" ext="jar" status="no" details="" size="314932" time="0" location="D:\activator-dist-1.3.7\repository\junit\junit\4.12\jars\junit.jar">
+						<origin-location is-local="true" location="D:\activator-dist-1.3.7\repository\junit\junit\4.12\jars\junit.jar"/>
+					</artifact>
+					<artifact name="junit" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="200355" time="0" location="C:\Users\YalamandaRao\.ivy2\cache\junit\junit\srcs\junit-4.12-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/junit/junit/4.12/junit-4.12-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.hamcrest" name="hamcrest-core">
+			<revision name="1.3" status="release" pubdate="20151123133323" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="4">
+				<metadata-artifact status="no" details="" size="2515" time="0" location="C:\Users\YalamandaRao\.ivy2\cache\org.hamcrest\hamcrest-core\ivy-1.3.xml" searched="false" origin-is-local="true" origin-location="D:\activator-dist-1.3.7\repository\org.hamcrest\hamcrest-core\1.3\ivys\ivy.xml"/>
+				<caller organisation="default" name="scala_codes$sources_2.11" conf="test, compile, provided, test-internal, runtime, optional" rev="1.3" rev-constraint-default="1.3" rev-constraint-dynamic="1.3" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="hamcrest-core" type="jar" ext="jar" status="no" details="" size="45024" time="0" location="D:\activator-dist-1.3.7\repository\org.hamcrest\hamcrest-core\1.3\jars\hamcrest-core.jar">
+						<origin-location is-local="true" location="D:\activator-dist-1.3.7\repository\org.hamcrest\hamcrest-core\1.3\jars\hamcrest-core.jar"/>
+					</artifact>
+					<artifact name="hamcrest-core" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="32624" time="0" location="C:\Users\YalamandaRao\.ivy2\cache\org.hamcrest\hamcrest-core\srcs\hamcrest-core-1.3-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
 		<module organisation="org.scala-lang" name="scala-actors">
 			<revision name="2.11.7" status="release" pubdate="20150622151828" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.11.7/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="2">
 				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>

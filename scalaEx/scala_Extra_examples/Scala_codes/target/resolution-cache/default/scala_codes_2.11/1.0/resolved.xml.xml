@@ -4,7 +4,7 @@
 		module="scala_codes_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20160620231230"
+		publication="20160624032843"
 	>
 		<description>
 		Scala_codes
@@ -36,5 +36,10 @@
 		<dependency org="org.scala-lang" name="scala-library" rev="2.11.7" conf="scala-tool->default,optional(default);compile->default(compile)"/>
 		<dependency org="org.scala-lang.modules" name="scala-xml_2.11" rev="1.0.3" conf="compile->default(compile)"/>
 		<dependency org="org.scala-lang" name="scala-actors" rev="2.11.7" conf="compile->default(compile)"/>
+		<dependency org="junit" name="junit" rev="4.12" conf="compile->default(compile)"/>
+		<dependency org="org.scalactic" name="scalactic_2.11" rev="2.2.6" conf="compile->default(compile)"/>
+		<dependency org="org.scalatest" name="scalatest_2.11" rev="2.2.6" conf="test->default(compile)"/>
+		<dependency org="org.scala-lang.modules" name="scala-parser-combinators_2.11" rev="1.0.3" conf="compile->default(compile)"/>
+		<dependency org="org.scala-lang.modules" name="scala-swing_2.11" rev="1.0.1" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

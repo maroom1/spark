@@ -34,5 +34,14 @@ object CollectionsMap extends App{
     case ex : java.util.NoSuchElementException => println("Not found")
   }
 
-  
+/*
+  X(a) = b is equivalent to X.update(a, b).*/
+
+
+  val mutableFeeds = scala.collection.mutable.Map(
+    "Scala Book Forum" -> "forums.pragprog.com/forums/87")
+  mutableFeeds("Groovy Book Forum") = "forums.pragprog.com/forums/55"
+  println("Number of forums: " + mutableFeeds.size)
+
+
 }

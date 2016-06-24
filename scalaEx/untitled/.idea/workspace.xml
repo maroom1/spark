@@ -37,91 +37,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TraitsEx1.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/traitsex/TraitsEx1.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TraitsEx2.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/traitsex/TraitsEx2.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="18" column="0" selection-start-line="13" selection-start-column="1" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TraitsEx3.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/traitsex/TraitsEx3.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="55" column="29" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TraitsEx4.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/traitsex/TraitsEx4.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="25" column="75" selection-start-line="25" selection-start-column="75" selection-end-line="25" selection-end-column="75" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TraitEx5.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/traitsex/TraitEx5.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TraitsEx6.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/traitsex/TraitsEx6.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CollectionEx1.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Collections/CollectionEx1.scala">
+      <file leaf-file-name="ListTest.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/ListTest.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CollectionsMap.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Collections/CollectionsMap.scala">
+      <file leaf-file-name="ExpectExample.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/ExpectExample.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="36" column="2" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
+            <state relative-caret-position="204">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="example.sc" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Collections/example.sc">
+      <file leaf-file-name="testGetOn.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/testGetOn.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+            <state relative-caret-position="280">
+              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShareCodeImperative.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/ShareCodeImperative.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShareCodeFunctional.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/ShareCodeFunctional.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UsingFunSuit.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/UsingFunSuit.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UsingJUnit3Suite.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/UsingJUnit3Suite.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RunJUnitTest.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/RunJUnitTest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AssertionFailureExample.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/AssertionFailureExample.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -130,8 +130,8 @@
       <file leaf-file-name="build.sbt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="211">
+              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -143,8 +143,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Scala Script" />
-        <option value="Class" />
         <option value="Scala Worksheet" />
+        <option value="Package Object" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -156,45 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/SingletonObj.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Summer.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/FallWinterSpringSummer.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/args.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/EchoArgs.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Basics4.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Examples.sc" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Examples1.sc" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Rational.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Scala-xml/CCTherm.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Scala-xml/xml.sc" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Scala-xml/samplecode.sc" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Scala-xml/objectxml.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/scalaxml/CCTherm.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/scalaxml/Misc.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/scalaxml/objectxml.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Funtions" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/book.xml" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/FilesEx/Files.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/books.xml" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/scalaxml/Main.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/scalaxml/BookClass.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/scalaxml/scalaxmlEx.sc" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/scalaxml/Book.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Customer.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/JavaArrays.java" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/type_parameter/Misc.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/type_parameter/Queue1.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/type_parameter/Queues2.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/type_parameter/Queues3.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/build.sbt" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/scalaActors/Ping.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/scalaActors/Pong.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/scalaActors/PingPong.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/scalaActors/TopStack.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Temp.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Scala_Variance.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/HigherOrderFuncAdV.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/currying.scala" />
         <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/FunctionReuSe.scala" />
         <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/AroundpatternFunction.scala" />
         <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/PartialFunc.scala" />
@@ -205,8 +167,47 @@
         <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/traitsex/TraitEx5.scala" />
         <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/traitsex/TraitsEx6.scala" />
         <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Collections/CollectionEx1.scala" />
-        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Collections/CollectionsMap.scala" />
         <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Collections/example.sc" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Collections/CollectionsMap.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Collections/collectionList.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/PatternMatching/patmacthex1.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex1.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex2.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex3.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex4.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Balance/Account.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/MessagePassing.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex5.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex6.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/par_ex.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex7.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex8.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex9.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex10.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex11.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex12.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex13.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex14.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex15.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/java/SampleTest.java" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/java/SampleTest.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex16.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/java/TestJunit.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/java/TestRunner.java" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/build.sbt" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/CanaryTest.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/ListTest.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/AssertionFailureExample.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/target/scala-2.11/AssertionFailureExample1.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/AssertionFailureExample1/AssertionFailureExample.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/AssertionFailureExample1.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/ExpectExample.java" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/testGetOn.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/ShareCodeImperative.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/ShareCodeFunctional.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/UsingFunSuit.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/UsingJUnit3Suite.scala" />
+        <option value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/RunJUnitTest.scala" />
       </list>
     </option>
   </component>
@@ -271,19 +272,8 @@
         </subPane>
         <subPane subId="Tests" />
       </pane>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Scala_codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Scala_codes" />
@@ -324,25 +314,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Scala_codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Scala_codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
+              <option name="myItemId" value="target" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -364,15 +336,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala-2.11" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Collections" />
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -387,37 +351,12 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Scala_codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Scala_codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -426,25 +365,27 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\git_work\spark\scalaEx\scala_Extra_examples\Scala_codes\src\test\scala-2.11" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git_work\spark\scalaEx\scala_Extra_examples\Scala_codes\src\test\scala-2.11\AssertionFailureExample1" />
+      <recent name="D:\git_work\spark\scalaEx\scala_Extra_examples\Scala_codes\src\test\scala-2.11" />
+      <recent name="D:\git_work\spark\scalaEx\scala_Extra_examples\Scala_codes\target\scala-2.11" />
       <recent name="D:\git_work\spark\scalaEx\scala_Extra_examples\Scala_codes\src\main\resources" />
       <recent name="D:\git_work\spark\scalaEx\scala_Extra_examples\Scala_codes\src\main\scala-2.11" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CollectionEx1">
-    <configuration default="false" name="TraitsEx3" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="traitsex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="traitsex.TraitsEx3" />
+  <component name="RunManager" selected="Application.RunJUnitTest">
+    <configuration default="false" name="TestRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="TestRunner" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -457,17 +398,12 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="TraitsEx4" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="traitsex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="traitsex.TraitsEx4" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <configuration default="false" name="CanaryTest" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -477,54 +413,51 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="TraitEx5" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="traitsex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="traitsex.TraitEx5" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <configuration default="false" name="SampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="scala_codes" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SampleTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="scala_codes" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
       <envs />
+      <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="TraitsEx6" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="traitsex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="traitsex.TraitsEx6" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <configuration default="false" name="TestJunit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="scala_codes" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestJunit" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="scala_codes" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
       <envs />
+      <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="CollectionEx1" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Collections.CollectionEx1" />
+    <configuration default="false" name="RunJUnitTest" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="RunJUnitTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -580,6 +513,9 @@
       <option name="PREFERRED_AVD" value="" />
       <method />
     </configuration>
+    <configuration default="true" type="AntRunConfiguration" factoryName="Ant Target">
+      <method />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -603,6 +539,9 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <method />
+    </configuration>
     <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -617,6 +556,24 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GriffonRunConfigurationType" factoryName="Griffon">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="true" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -695,6 +652,15 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="K2JSConfigurationType" factoryName="Kotlin (JavaScript - experimental)">
+      <K2JSConfigurationSettings>
+        <option name="browserFamily" value="Chrome" />
+        <option name="generatedFilePath" value="$PROJECT_DIR$" />
+        <option name="pageToOpenFilePath" value="" />
+        <option name="shouldOpenInBrowserAfterTranslation" value="false" />
+      </K2JSConfigurationSettings>
+      <method />
+    </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="filePath" />
@@ -707,12 +673,40 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SbtRunConfiguration" factoryName="SBT Task">
+      <setting name="tasks" value="" />
+      <setting name="vmparams" value="-Xms512M -Xmx1024M -Xss1M -XX:+CMSClassUnloadingEnabled -XX:MaxPermSize=256M" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console">
@@ -722,14 +716,23 @@
       <setting name="consoleArgs" value="-usejavacp" />
       <method />
     </configuration>
-    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <configuration default="true" type="ScalaScriptRunConfiguration" factoryName="Scala Script">
       <module name="" />
       <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="consoleargs" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest" editBeforeRun="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="UsingJUnit3Suite" />
       <setting name="package" value="" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workingDirectory" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
       <setting name="searchForTest" value="Across module dependencies" />
       <setting name="testName" value="" />
       <setting name="testKind" value="Class" />
@@ -808,6 +811,22 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
     <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -824,24 +843,24 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TraitsEx3" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TraitsEx4" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TraitEx5" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TraitsEx6" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CollectionEx1" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TestRunner" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CanaryTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.SampleTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestJunit" />
+      <item index="4" class="java.lang.String" itemvalue="Application.RunJUnitTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CollectionEx1" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TraitsEx6" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TraitEx5" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TraitsEx4" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TraitsEx3" />
+        <item index="0" class="java.lang.String" itemvalue="Application.RunJUnitTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CanaryTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestRunner" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestJunit" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.SampleTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1466482986739" />
+    <option name="lastUpdateTimestamp" value="1466756936946" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -892,25 +911,32 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="SampleTest - 2016.06.24 at 03h 04m 49s.xml">
+      <configuration name="SampleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestJunit - 2016.06.24 at 03h 08m 59s.xml">
+      <configuration name="TestJunit" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.33894584" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21766561" sideWeight="0.28623718" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38170347" sideWeight="0.60175693" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21766561" sideWeight="0.7137628" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38170347" sideWeight="0.39824304" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38170347" sideWeight="0.37188873" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2489019" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.4795022" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24597365" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -923,6 +949,7 @@
       <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.4795022" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -950,387 +977,414 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/EchoArgs.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/FallWinterSpringSummer.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Scala-xml/xml.sc" />
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Scala-xml/samplecode.sc" />
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/scalaxml/objectxml.scala" />
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Funtions">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Summer.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/SingletonObj.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/resources/book.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/books.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/scalaxml/CCTherm.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-305">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/FilesEx/Files.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1269">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/jre/lib/rt.jar!/sun/misc/FloatingDecimal.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="109" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/collection/generic/TraversableForwarder.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/App.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/scalaxml/BookClass.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/scalaxml/Book.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-          <folding>
-            <element signature="e#17#33#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/scalaxml/Main.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="37" column="63" selection-start-line="37" selection-start-column="63" selection-end-line="37" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/scalaxml/scalaxmlEx.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/book.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/therm1.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/scalaxml/Misc.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="20" column="41" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/JavaArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#697#698#0" expanded="false" />
-            <element signature="e#737#738#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/type_parameter/Queues3.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="27" column="3" selection-start-line="23" selection-start-column="4" selection-end-line="27" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/type_parameter/Queues2.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/type_parameter/Queue1.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="69" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/type_parameter/Misc.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Customer.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/bookie.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/scalaActors/Pong.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/scalaActors/Ping.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/AroundpatternFunction.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="39" column="3" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/FunctionReuSe.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/currying.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/HigherOrderFuncAdV.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Scala_Variance.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Temp.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="67" column="21" selection-start-line="67" selection-start-column="21" selection-end-line="67" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/scalaActors/TopStack.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="23" column="56" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="56" />
-          <folding>
-            <element signature="e#34#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/scalaActors/PingPong.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="27" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="27" />
-          <folding>
-            <element signature="e#21#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/PartialFunc.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="36" column="53" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/traitsex/TraitsEx1.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
+        <state relative-caret-position="323">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/traitsex/TraitsEx2.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
+        <state relative-caret-position="306">
           <caret line="18" column="0" selection-start-line="13" selection-start-column="1" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/traitsex/TraitsEx3.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
+        <state relative-caret-position="935">
           <caret line="55" column="29" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/traitsex/TraitsEx4.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
+        <state relative-caret-position="425">
           <caret line="25" column="75" selection-start-line="25" selection-start-column="75" selection-end-line="25" selection-end-column="75" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/traitsex/TraitEx5.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
+        <state relative-caret-position="442">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/traitsex/TraitsEx6.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
+        <state relative-caret-position="1003">
           <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Collections/CollectionEx1.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="714">
           <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Collections/CollectionsMap.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="36" column="2" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Collections/example.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        <state relative-caret-position="321">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Collections/CollectionsMap.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/package.scala" />
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/Collections/collectionList.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="109" column="61" selection-start-line="109" selection-start-column="61" selection-end-line="109" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/PatternMatching/patmacthex1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex5.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="42" column="85" selection-start-line="42" selection-start-column="85" selection-end-line="42" selection-end-column="85" />
+          <folding>
+            <element signature="e#107#128#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Balance/Account.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex4.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex3.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+          <folding>
+            <element signature="e#107#119#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/par_ex.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex8.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex7.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="e#107#128#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex6.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="52" column="16" selection-start-line="52" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding>
+            <element signature="e#107#128#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/MessagePassing.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex9.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="e#600#621#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex10.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+          <folding>
+            <element signature="e#108#129#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex11.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex12.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="e#108#129#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex13.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="e#125#146#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex14.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#108#129#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex15.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+          <folding>
+            <element signature="e#163#184#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/java/SampleTest.java" />
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/java/SampleTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#49#75#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/java/TestJunit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/main/scala-2.11/ConcurrentProgramming/Ex16.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="8" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/java/TestJunit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/java/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/CanaryTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/ListTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/target/scala-2.11/AssertionFailureExample1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/AssertionFailureExample1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="102" selection-start-line="5" selection-start-column="102" selection-end-line="5" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/ExpectExample.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="427" column="13" selection-start-line="427" selection-start-column="13" selection-end-line="427" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/testGetOn.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/ShareCodeImperative.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/ShareCodeFunctional.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/UsingFunSuit.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/UsingJUnit3Suite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/AssertionFailureExample.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scala_Extra_examples/Scala_codes/src/test/scala-2.11/RunJUnitTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
           <folding />
         </state>
       </provider>
